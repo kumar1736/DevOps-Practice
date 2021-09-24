@@ -1,2 +1,1 @@
-# DevOps-Practice
-This to practice the DevOps
+This is the first program to practice the DevOps
